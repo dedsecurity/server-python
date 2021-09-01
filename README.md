@@ -1,6 +1,6 @@
 <h1 align="center"> Dedsecurity Framework</h1>
 
-## Server-Python is a webserver made in Python.
+## Server-python is a webserver made in Python.
 
 ```bash
 Website:  https://www.dedsecurity.com
